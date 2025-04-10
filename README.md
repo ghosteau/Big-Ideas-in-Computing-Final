@@ -1,11 +1,9 @@
 # CMPINF 0010 Final Project
 *Repository Goal: Determine the best neighborhood in Pittsburgh by measuring and comparing datasets about neighborhood statistics.*
 
-By Manny McGrail and Joe Lentini
+By Manny McGrail and Joe Lentini (mrm344@pitt.edu, jrl222@pitt.edu)
 
 Team Name: Friendly Neighborhood DataMen
-
-mrm344@pitt.edu, jrl222@pitt.edu
 
 
 **Dataset Links**:
