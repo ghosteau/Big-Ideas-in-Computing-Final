@@ -4,12 +4,11 @@ The final project for CMPINF 0010.
 Team Name: Friendly Neighborhood DataMen
 
 Manny McGrail, Joe Lentini
-MRM344@pitt.edu , jrl222@pitt.edu
+MRM344@pitt.edu, jrl222@pitt.edu
 
 Repository Goal: Determine the best neighborhood in Pittsburgh by measuring and comparing datasets about neighborhood statistics. 
 
-Dataset Links:
-Crime Data (crime trends in Pittsburgh neighborhoods) – https://data.wprdc.org/dataset/uniform-crime-reporting-data/resource/391942e2-25ef-43e4-8263-f8519fa8aada
-Fire Incidents (Fire incidents in Pittsburgh neighborhoods) – https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh/resource/8d76ac6b-5ae8-4428-82a4-043130d17b02
-City of Pittsburgh Parks (Parks in Pittsburgh neighborhoods) – https://data.wprdc.org/dataset/parks/resource/fa329e3d-89ff-4708-8ddf-81bfedcad11d
-
+**Dataset Links**:
+- Crime Data (crime trends in Pittsburgh neighborhoods) – https://data.wprdc.org/dataset/uniform-crime-reporting-data/resource/391942e2-25ef-43e4-8263-f8519fa8aada
+- Fire Incidents (Fire incidents in Pittsburgh neighborhoods) – https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh/resource/8d76ac6b-5ae8-4428-82a4-043130d17b02
+- City of Pittsburgh Parks (Parks in Pittsburgh neighborhoods) – https://data.wprdc.org/dataset/parks/resource/fa329e3d-89ff-4708-8ddf-81bfedcad11d
