@@ -7,7 +7,7 @@
 ---
 
 ### By: Manny McGrail and Joe Lentini
-**Emails:** [Email 1](mailto:mrm344@pitt.edu), [Email 2](mailto:jrl222@pitt.edu)  
+**Emails:** mrm344@pitt.edu, jrl222@pitt.edu
 
 **Team Name:** Friendly Neighborhood DataMen
 
