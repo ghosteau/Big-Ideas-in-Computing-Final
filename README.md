@@ -3,7 +3,7 @@ By Manny McGrail and Joe Lentini
 
 Team Name: Friendly Neighborhood DataMen
 
-MRM344@pitt.edu, jrl222@pitt.edu
+mrm344@pitt.edu, jrl222@pitt.edu
 
 Repository Goal: Determine the best neighborhood in Pittsburgh by measuring and comparing datasets about neighborhood statistics. 
 
