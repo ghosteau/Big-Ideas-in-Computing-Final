@@ -1,9 +1,7 @@
-# Big-Ideas-in-Computing-Final
-The final project for CMPINF 0010.
+# CMPINF 0010 Final Project
+By Manny McGrail and Joe Lentini
 
 Team Name: Friendly Neighborhood DataMen
-
-Manny McGrail, Joe Lentini
 MRM344@pitt.edu, jrl222@pitt.edu
 
 Repository Goal: Determine the best neighborhood in Pittsburgh by measuring and comparing datasets about neighborhood statistics. 
