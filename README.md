@@ -18,6 +18,11 @@ Make sure to **trust the notebook** before downloading it, as it uses a library 
 
 ---
 
+### Individual Responsibilities Note:
+Individual notebooks for the submetrics were combined into a single metric .ipynb file. At first we started in individual notebooks, but we found it easier to take turns working in the same file. 
+
+---
+
 ### Dataset Links
 
 - **Crime Data** (crime trends in Pittsburgh neighborhoods):  
